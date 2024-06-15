@@ -1,0 +1,7 @@
+dialog——对话
+long_sentence——长句
+proverb——俗语
+short_sentence——短句
+word——词汇
+兰州方言资料——收录了拥有兰州方言的脱口秀、相声等。
+导航——对dialog、long_sentence、proverb、short_sentence、word里面收录的方言进行了解释
